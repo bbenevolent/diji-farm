@@ -80,7 +80,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .site-logo img {
-  height: 50px;
+  height: 40px;
   width: auto;
 }
 
@@ -106,12 +106,13 @@ img { max-width: 100%; height: auto; }
 .main-nav { display: flex; gap: 0; }
 .main-nav a {
   color: rgba(255,255,255,0.85);
-  padding: 1.2rem 0.9rem;
-  font-size: 0.75rem;
+  padding: 1.2rem 0.5rem;
+  font-size: 0.7rem;
   font-family: var(--font-body);
-  letter-spacing: 1.5px;
+  letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: 700;
+  white-space: nowrap;
   border-bottom: 3px solid transparent;
   transition: all 0.2s;
 }

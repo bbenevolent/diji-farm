@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm AH Snow's Legacy"
 type: "does"
-featured_image: "/images/IMG_0139_HEIC.png"
+featured_image: "/diji-farm/images/IMG_0139_HEIC.png"
 weight: 2
 ---
 

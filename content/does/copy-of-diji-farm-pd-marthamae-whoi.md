@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm PD Bella Rose"
 type: "does"
-featured_image: "/images/bella.jpg"
+featured_image: "/diji-farm/images/bella.jpg"
 weight: 8
 ---
 

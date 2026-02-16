@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm GB American Glory"
 type: "does"
-featured_image: "/images/GLACIER2017.jpg"
+featured_image: "/diji-farm/images/GLACIER2017.jpg"
 weight: 6
 ---
 

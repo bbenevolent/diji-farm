@@ -1,7 +1,7 @@
 ---
 title: "J3 Farm OB Pansy"
 type: "does"
-featured_image: "/images/030d08_bbe46ceaaa254170bc3076ac52f392ea~mv2.png"
+featured_image: "/diji-farm/images/030d08_bbe46ceaaa254170bc3076ac52f392ea~mv2.png"
 categories: ["Mini Nubian"]
 weight: 45
 ---

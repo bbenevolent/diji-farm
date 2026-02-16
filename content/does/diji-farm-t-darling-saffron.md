@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm T Darling Saffron"
 type: "does"
-featured_image: "/images/030d08_214849a9e466460e901881010ff193d5~mv2.png"
+featured_image: "/diji-farm/images/030d08_214849a9e466460e901881010ff193d5~mv2.png"
 weight: 37
 ---
 

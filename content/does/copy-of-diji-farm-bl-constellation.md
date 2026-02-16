@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm P Grace Kelley"
 type: "does"
-featured_image: "/images/joe.jpg"
+featured_image: "/diji-farm/images/joe.jpg"
 weight: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm DJ Kilueaua"
 type: "does"
-featured_image: "/images/030d08_daf0d22a24f64a72bf55189bb3a8fd14~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_daf0d22a24f64a72bf55189bb3a8fd14~mv2.jpg"
 weight: 25
 ---
 

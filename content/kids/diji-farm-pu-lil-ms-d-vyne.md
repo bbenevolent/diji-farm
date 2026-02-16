@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm PU Lil Ms D-Vyne"
 type: "kids"
-featured_image: "/images/030d08_9c666b9b5e2041bfb9d9fd494a095013~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_9c666b9b5e2041bfb9d9fd494a095013~mv2.jpg"
 weight: 1
 ---
 

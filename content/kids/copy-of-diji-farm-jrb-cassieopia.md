@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm JRB Cassieopia"
 type: "kids"
-featured_image: "/images/191257307_846143235998085_67037554050712.jpg"
+featured_image: "/diji-farm/images/191257307_846143235998085_67037554050712.jpg"
 weight: 4
 ---
 

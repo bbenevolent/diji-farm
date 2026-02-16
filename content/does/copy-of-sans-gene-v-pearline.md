@@ -1,7 +1,7 @@
 ---
 title: "Sans Gene V Pearline"
 type: "does"
-featured_image: "/images/030d08_946a4d4e914745b69138ff22bcdf2967~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_946a4d4e914745b69138ff22bcdf2967~mv2.jpg"
 weight: 9
 ---
 

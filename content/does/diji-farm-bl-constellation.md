@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm BL Constellation"
 type: "does"
-featured_image: "/images/351722192_987114095766349_3795448917289165294_n.jpg"
+featured_image: "/diji-farm/images/351722192_987114095766349_3795448917289165294_n.jpg"
 weight: 13
 ---
 

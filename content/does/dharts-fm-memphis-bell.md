@@ -1,7 +1,7 @@
 ---
 title: "DHarts FM Memphis  Bell"
 type: "does"
-featured_image: "/images/484166311_694217002943520_1451046834964502425_n.jpg"
+featured_image: "/diji-farm/images/484166311_694217002943520_1451046834964502425_n.jpg"
 weight: 10
 ---
 

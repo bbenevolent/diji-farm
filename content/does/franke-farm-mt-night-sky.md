@@ -1,7 +1,7 @@
 ---
 title: "Franke Farm MT Night Sky"
 type: "does"
-featured_image: "/images/030d08_88055f537e894486856c94a9927b2181~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_88055f537e894486856c94a9927b2181~mv2.jpg"
 weight: 42
 ---
 

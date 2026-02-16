@@ -1,7 +1,7 @@
 ---
 title: "Till-Riv-WTM-Ivory-Rose"
 type: "does"
-featured_image: "/images/367489897_974786390305933_8517441017435824109_n_edited.jpg"
+featured_image: "/diji-farm/images/367489897_974786390305933_8517441017435824109_n_edited.jpg"
 weight: 7
 ---
 

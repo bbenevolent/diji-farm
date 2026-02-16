@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm FD Darling Virginia"
 type: "does"
-featured_image: "/images/030d08_d5a9cc2cdbdb4cf49787e48d4c9fe657~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_d5a9cc2cdbdb4cf49787e48d4c9fe657~mv2.jpg"
 weight: 23
 ---
 

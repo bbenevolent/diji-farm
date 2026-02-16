@@ -1,7 +1,7 @@
 ---
 title: "Stayawhile Farm R Don Julio"
 type: "sires"
-featured_image: "/images/030d08_bf7367c637fb467485f97cdc0ccefc85~mv2.png"
+featured_image: "/diji-farm/images/030d08_bf7367c637fb467485f97cdc0ccefc85~mv2.png"
 weight: 1
 ---
 

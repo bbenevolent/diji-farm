@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm PN Aruba"
 type: "does"
-featured_image: "/images/030d08_82c6bc2d3844400e820adaa5bf6a2938~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_82c6bc2d3844400e820adaa5bf6a2938~mv2.jpg"
 weight: 35
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm O Moxi"
 type: "does"
-featured_image: "/images/345150981_161726286730714_9086915886358253958_n.jpg"
+featured_image: "/diji-farm/images/345150981_161726286730714_9086915886358253958_n.jpg"
 weight: 32
 ---
 

@@ -86,18 +86,20 @@ img { max-width: 100%; height: auto; }
 
 .site-logo .site-title {
   font-family: var(--font-heading);
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--gold);
   letter-spacing: 1px;
+  white-space: nowrap;
 }
 
 .site-logo .site-subtitle {
   font-family: var(--font-body);
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   color: rgba(255,255,255,0.7);
   display: block;
   letter-spacing: 0.5px;
+  white-space: nowrap;
 }
 
 /* Navigation */

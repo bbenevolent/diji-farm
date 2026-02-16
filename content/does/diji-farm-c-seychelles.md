@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm C Seychelles"
 type: "does"
-featured_image: "/images/Chellie_HEIC.png"
+featured_image: "/diji-farm/images/Chellie_HEIC.png"
 weight: 17
 ---
 

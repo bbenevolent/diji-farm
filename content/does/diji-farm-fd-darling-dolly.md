@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm DJ Darling Dolly"
 type: "does"
-featured_image: "/images/030d08_a2d287d9f8f242fd8483e289d19968b6~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_a2d287d9f8f242fd8483e289d19968b6~mv2.jpg"
 weight: 28
 ---
 

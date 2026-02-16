@@ -1,7 +1,7 @@
 ---
 title: "Windswept Acres C Mahna Mahna Be-Do-Do"
 type: "mini-nubians"
-featured_image: "/images/55cdcf32-5e5d-49e8-9530-eb2248e48323.jpg"
+featured_image: "/diji-farm/images/55cdcf32-5e5d-49e8-9530-eb2248e48323.jpg"
 categories: ["Mini Nubian"]
 weight: 2
 ---

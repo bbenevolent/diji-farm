@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm GB Lexi"
 type: "does"
-featured_image: "/images/149365917_249155350008264_21624122262180.jpg"
+featured_image: "/diji-farm/images/149365917_249155350008264_21624122262180.jpg"
 weight: 5
 ---
 

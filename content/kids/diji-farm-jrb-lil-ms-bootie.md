@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm JRB Lil Ms Bootie"
 type: "kids"
-featured_image: "/images/IMG_9041.jpg"
+featured_image: "/diji-farm/images/IMG_9041.jpg"
 weight: 2
 ---
 

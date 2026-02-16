@@ -1,7 +1,7 @@
 ---
 title: "Sans Gene E Ginger Truffle"
 type: "does"
-featured_image: "/images/030d08_792f8cdd90514315a4306729ec3b07d3~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_792f8cdd90514315a4306729ec3b07d3~mv2.jpg"
 weight: 52
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Till-Riv TA BNS Smooth Edition"
 type: "sires"
-featured_image: "/images/030d08_a8a27afdcb2142b9b84b8362ba286f00~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_a8a27afdcb2142b9b84b8362ba286f00~mv2.jpg"
 weight: 3
 ---
 

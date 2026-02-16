@@ -1,7 +1,7 @@
 ---
 title: "Till-Riv GRI Khloe"
 type: "mini-nubians"
-featured_image: "/images/030d08_22fc1a24869140c5a2c7936906b32520~mv2.jpeg"
+featured_image: "/diji-farm/images/030d08_22fc1a24869140c5a2c7936906b32520~mv2.jpeg"
 categories: ["Mini Nubian"]
 weight: 4
 ---

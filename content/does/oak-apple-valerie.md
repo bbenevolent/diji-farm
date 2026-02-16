@@ -1,7 +1,7 @@
 ---
 title: "Oak Apple Valerie"
 type: "does"
-featured_image: "/images/030d08_d523d7f5738a4900807d22175e39be37~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_d523d7f5738a4900807d22175e39be37~mv2.jpg"
 weight: 48
 ---
 

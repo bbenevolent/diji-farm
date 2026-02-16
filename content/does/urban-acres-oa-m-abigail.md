@@ -1,7 +1,7 @@
 ---
 title: "Urban Acres OA-M Abigail"
 type: "does"
-featured_image: "/images/030d08_f62577b7f9454b9a9dd5686547939643~mv2.png"
+featured_image: "/diji-farm/images/030d08_f62577b7f9454b9a9dd5686547939643~mv2.png"
 categories: ["Mini Nubian"]
 weight: 58
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm BL Meriweather"
 type: "does"
-featured_image: "/images/meri2021.jpg"
+featured_image: "/diji-farm/images/meri2021.jpg"
 weight: 14
 ---
 

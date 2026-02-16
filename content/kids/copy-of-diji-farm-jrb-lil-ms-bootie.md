@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm JRB Typhoon"
 type: "kids"
-featured_image: "/images/IMG_9058_edited.jpg"
+featured_image: "/diji-farm/images/IMG_9058_edited.jpg"
 weight: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm AH Bayliner"
 type: "does"
-featured_image: "/images/030d08_5f892c55f8e843debe21ae3586ca227a~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_5f892c55f8e843debe21ae3586ca227a~mv2.jpg"
 weight: 12
 ---
 

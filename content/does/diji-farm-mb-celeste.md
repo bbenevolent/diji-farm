@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm MB Celeste"
 type: "does"
-featured_image: "/images/350755719_1399714370865114_7972651596757787897_n.jpg"
+featured_image: "/diji-farm/images/350755719_1399714370865114_7972651596757787897_n.jpg"
 weight: 30
 ---
 

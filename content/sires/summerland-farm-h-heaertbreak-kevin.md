@@ -1,7 +1,7 @@
 ---
 title: "Summerland Farms H Heartbreak Kevin"
 type: "sires"
-featured_image: "/images/030d08_0ec12302b8884ab6917e7e21f34751cd~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_0ec12302b8884ab6917e7e21f34751cd~mv2.jpg"
 categories: ["Mini Nubian"]
 weight: 4
 ---

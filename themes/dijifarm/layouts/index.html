@@ -15,7 +15,7 @@
   <div class="goat-grid">
     {{ range first 6 (sort $does "Params.weight" "asc") }}
     <div class="goat-card">
-      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      {{ if .Params.featured_image }}<img class="goat-card-img" src="{{ .Params.featured_image }}" alt="{{ .Title }}">{{ end }}
       <div class="goat-card-body">
         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
       </div>
@@ -31,7 +31,7 @@
   <div class="goat-grid">
     {{ range sort $sires "Params.weight" "asc" }}
     <div class="goat-card">
-      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      {{ if .Params.featured_image }}<img class="goat-card-img" src="{{ .Params.featured_image }}" alt="{{ .Title }}">{{ end }}
       <div class="goat-card-body">
         <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
       </div>

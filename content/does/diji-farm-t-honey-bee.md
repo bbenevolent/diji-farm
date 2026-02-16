@@ -1,7 +1,7 @@
 ---
 title: "Dij iFarm T Honey Bee"
 type: "does"
-featured_image: "/images/030d08_0968c334145144b581e2dfcbef7e64e5~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_0968c334145144b581e2dfcbef7e64e5~mv2.jpg"
 weight: 38
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm Pals Calalilly"
 type: "does"
-featured_image: "/images/030d08_c403186aa2af41be8f86c8f6ece5556b~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_c403186aa2af41be8f86c8f6ece5556b~mv2.jpg"
 weight: 18
 ---
 

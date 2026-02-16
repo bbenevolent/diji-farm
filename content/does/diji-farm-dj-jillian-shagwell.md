@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm DJ Jillian Shagwell"
 type: "does"
-featured_image: "/images/fac27482-5766-4134-a59f-041d560c96e7_edited.jpg"
+featured_image: "/diji-farm/images/fac27482-5766-4134-a59f-041d560c96e7_edited.jpg"
 weight: 24
 ---
 

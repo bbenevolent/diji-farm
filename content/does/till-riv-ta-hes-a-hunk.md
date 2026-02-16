@@ -1,7 +1,7 @@
 ---
 title: "Till-Riv TA He's A Hunk"
 type: "does"
-featured_image: "/images/image_edited.jpg"
+featured_image: "/diji-farm/images/image_edited.jpg"
 weight: 56
 ---
 

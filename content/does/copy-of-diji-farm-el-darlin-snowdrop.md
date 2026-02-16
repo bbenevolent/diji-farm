@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm EL Darlin Snowdrop"
 type: "does"
-featured_image: "/images/302037106_3213505655570594_3034601814113875834_n.jpg"
+featured_image: "/diji-farm/images/302037106_3213505655570594_3034601814113875834_n.jpg"
 weight: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "J3Farm Olive"
 type: "does"
-featured_image: "/images/030d08_a83d7078589448f89c0d2f3101e45491~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_a83d7078589448f89c0d2f3101e45491~mv2.jpg"
 categories: ["Mini Nubian"]
 weight: 46
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm GB Darling Snow"
 type: "does"
-featured_image: "/images/030d08_92c39dd7ee8a49ee926f69988a8143b0~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_92c39dd7ee8a49ee926f69988a8143b0~mv2.jpg"
 weight: 29
 ---
 

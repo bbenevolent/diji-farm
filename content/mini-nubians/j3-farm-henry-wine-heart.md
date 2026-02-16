@@ -1,7 +1,7 @@
 ---
 title: "J3 Farm Henry Wine-Heart"
 type: "mini-nubians"
-featured_image: "/images/030d08_e7123eeaf4f3440bb0984e4e175abbf6~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_e7123eeaf4f3440bb0984e4e175abbf6~mv2.jpg"
 categories: ["Mini Nubian"]
 weight: 9
 ---

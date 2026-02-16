@@ -1,7 +1,7 @@
 ---
 title: "Sans Gene Very Superstitious"
 type: "does"
-featured_image: "/images/IMG_0164_JPG.jpg"
+featured_image: "/diji-farm/images/IMG_0164_JPG.jpg"
 weight: 54
 ---
 

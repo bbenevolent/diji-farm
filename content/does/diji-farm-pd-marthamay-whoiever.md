@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm PD Marthamay Whoiever"
 type: "does"
-featured_image: "/images/martha2021.jpg"
+featured_image: "/diji-farm/images/martha2021.jpg"
 weight: 34
 ---
 

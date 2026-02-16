@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm DJ Lillian Shagsalot"
 type: "does"
-featured_image: "/images/IMG_0346_JPG.jpg"
+featured_image: "/diji-farm/images/IMG_0346_JPG.jpg"
 weight: 26
 ---
 

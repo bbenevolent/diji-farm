@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm JRB Charlemagne"
 type: "kids"
-featured_image: "/images/030d08_382692c6a98843db9e4f0e2b6ca31e74~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_382692c6a98843db9e4f0e2b6ca31e74~mv2.jpg"
 weight: 5
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Royal Cedars VLV Oh My Stars"
 type: "mini-nubians"
-featured_image: "/images/030d08_bc21acafe0a8410a91ca84ab42ea5a4e~mv2.png"
+featured_image: "/diji-farm/images/030d08_bc21acafe0a8410a91ca84ab42ea5a4e~mv2.png"
 categories: ["Mini Nubian"]
 weight: 7
 ---

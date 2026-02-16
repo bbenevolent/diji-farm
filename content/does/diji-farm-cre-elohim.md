@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm CRE Elohim"
 type: "does"
-featured_image: "/images/70987975211__89D2A8D0-583E-4DE6-AC65-088014F1195D_edited.jpg"
+featured_image: "/diji-farm/images/70987975211__89D2A8D0-583E-4DE6-AC65-088014F1195D_edited.jpg"
 weight: 22
 ---
 

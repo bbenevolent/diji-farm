@@ -1,7 +1,7 @@
 ---
 title: "Running River Ferra's Cinder"
 type: "does"
-featured_image: "/images/030d08_cf831dac165d458f9f817fa5e03ec582~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_cf831dac165d458f9f817fa5e03ec582~mv2.jpg"
 categories: ["Mini Nubian"]
 weight: 51
 ---

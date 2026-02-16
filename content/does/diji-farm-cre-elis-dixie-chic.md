@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm CRE Eli's Dixie Chic"
 type: "does"
-featured_image: "/images/IMG_9021_edited.jpg"
+featured_image: "/diji-farm/images/IMG_9021_edited.jpg"
 weight: 21
 ---
 

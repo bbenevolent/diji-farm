@@ -1,7 +1,7 @@
 ---
 title: "Till-Riv WTM Verity"
 type: "does"
-featured_image: "/images/486235645_982657580704527_7274327285798974417_n.jpg"
+featured_image: "/diji-farm/images/486235645_982657580704527_7274327285798974417_n.jpg"
 weight: 57
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm PD Briar Rose"
 type: "does"
-featured_image: "/images/350738997_804846927524665_4578125507176409189_n.jpg"
+featured_image: "/diji-farm/images/350738997_804846927524665_4578125507176409189_n.jpg"
 weight: 33
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Sans Gene EP Skeeter"
 type: "does"
-featured_image: "/images/IMG_9019.jpg"
+featured_image: "/diji-farm/images/IMG_9019.jpg"
 weight: 53
 ---
 

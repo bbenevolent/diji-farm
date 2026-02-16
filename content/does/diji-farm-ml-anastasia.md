@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm ML Anastasia"
 type: "does"
-featured_image: "/images/367434918_24430842529848248_5915842056886295766_n.jpg"
+featured_image: "/diji-farm/images/367434918_24430842529848248_5915842056886295766_n.jpg"
 weight: 31
 ---
 

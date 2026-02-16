@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm CL Darling Amaryllis"
 type: "does"
-featured_image: "/images/IMG_9011_heic.png"
+featured_image: "/diji-farm/images/IMG_9011_heic.png"
 weight: 19
 ---
 

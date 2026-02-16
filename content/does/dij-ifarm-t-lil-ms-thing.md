@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm EL Lil Ms Thing"
 type: "does"
-featured_image: "/images/030d08_df9aca7a928646758f0c2dbe9cb9c4aa~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_df9aca7a928646758f0c2dbe9cb9c4aa~mv2.jpg"
 weight: 11
 ---
 

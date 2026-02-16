@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm TA Vera Amour"
 type: "does"
-featured_image: "/images/030d08_25be0819d3d347d395bfb74f2af576ff~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_25be0819d3d347d395bfb74f2af576ff~mv2.jpg"
 weight: 41
 ---
 

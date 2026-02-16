@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm T Wednesday"
 type: "does"
-featured_image: "/images/351553597_928559791759410_7973131023992816486_n.jpg"
+featured_image: "/diji-farm/images/351553597_928559791759410_7973131023992816486_n.jpg"
 weight: 39
 ---
 

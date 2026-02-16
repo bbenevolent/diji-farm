@@ -1,7 +1,7 @@
 ---
 title: "Diji Farm DJ Shaboozie"
 type: "sires"
-featured_image: "/images/030d08_2a68a7c425b34897906f4919a1e1a80c~mv2.jpg"
+featured_image: "/diji-farm/images/030d08_2a68a7c425b34897906f4919a1e1a80c~mv2.jpg"
 weight: 2
 ---
 

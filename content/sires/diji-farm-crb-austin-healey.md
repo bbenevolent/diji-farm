@@ -1,6 +1,6 @@
 ---
 title: "Diji Farm CRB Austin Healy"
-type: "does"
+type: "sires"
 featured_image: "/diji-farm/images/193019237_1184560775379600_5257120937283.jpg"
 weight: 20
 ---

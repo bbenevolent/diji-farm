@@ -1,6 +1,6 @@
 ---
 title: "Diji Farm TA Valdemar"
-type: "does"
+type: "sires"
 featured_image: "/diji-farm/images/486148387_1052011266767271_9124725301566572874_n.jpg"
 weight: 40
 ---

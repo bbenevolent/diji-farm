@@ -1,6 +1,6 @@
 ---
 title: "Jackson's Royal BW Bayliner"
-type: "does"
+type: "sires"
 featured_image: "/diji-farm/images/030d08_1ea54f3a1d874ede9b1b82e58f6396af~mv2.jpg"
 weight: 47
 ---

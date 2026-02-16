@@ -1,6 +1,6 @@
 ---
 title: "Old Mountain Farm Maine Mead"
-type: "does"
+type: "sires"
 featured_image: "/diji-farm/images/image.png"
 weight: 49
 ---

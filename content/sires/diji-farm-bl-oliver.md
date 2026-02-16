@@ -1,6 +1,6 @@
 ---
 title: "Diji Farm BL Oliver"
-type: "does"
+type: "sires"
 featured_image: "/diji-farm/images/oliver.jpg"
 weight: 15
 ---

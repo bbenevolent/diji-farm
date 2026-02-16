@@ -1,6 +1,6 @@
 ---
 title: "Diji Farm BW Glacier Bay"
-type: "does"
+type: "sires"
 featured_image: "/diji-farm/images/GLACIER2017.jpg"
 weight: 16
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Hillside Acre BR Fat Daddy"
-type: "does"
+type: "sires"
 featured_image: "/diji-farm/images/babyray.png"
 weight: 43
 ---

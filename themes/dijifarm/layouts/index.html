@@ -1,0 +1,43 @@
+{{ define "main" }}
+<div class="hero">
+  <h1>{{ .Site.Title }}</h1>
+  <p>{{ .Site.Params.description }}</p>
+  {{ with .Site.Params.location }}<p style="margin-top: 0.5rem; font-size: 0.95rem; opacity: 0.7;">{{ . }}</p>{{ end }}
+  {{ with .Site.Params.tagline }}<p style="margin-top: 0.5rem; font-size: 1.1rem; font-style: italic; opacity: 0.85;">{{ . }}</p>{{ end }}
+</div>
+
+<div class="container">
+  {{ .Content }}
+
+  {{ $does := where .Site.RegularPages "Section" "does" }}
+  {{ if $does }}
+  <h2 class="section-heading"><a href="{{ "does/" | relURL }}">Our Does</a></h2>
+  <div class="goat-grid">
+    {{ range first 6 (sort $does "Params.weight" "asc") }}
+    <div class="goat-card">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  <p style="text-align: center; margin-top: 1rem;"><a href="{{ "does/" | relURL }}">View all does &rarr;</a></p>
+  {{ end }}
+
+  {{ $sires := where .Site.RegularPages "Section" "sires" }}
+  {{ if $sires }}
+  <h2 class="section-heading"><a href="{{ "sires/" | relURL }}">Our Sires</a></h2>
+  <div class="goat-grid">
+    {{ range sort $sires "Params.weight" "asc" }}
+    <div class="goat-card">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,22 @@
+{{ define "main" }}
+{{ $section := .Section }}
+{{ if or (eq $section "does") (eq $section "sires") (eq $section "kids") (eq $section "mini-nubians") }}
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="goat-profile">
+  {{ .Content }}
+  <p style="margin-top: 2rem;"><a href="{{ (printf "%s/" $section) | relURL }}">&larr; Back to {{ $section | title }}</a></p>
+</div>
+{{ else }}
+<div class="single-content">
+  <h1>{{ .Title }}</h1>
+  {{ if .Date }}
+  <div class="meta">
+    {{ .Date.Format "January 2, 2006" }}
+  </div>
+  {{ end }}
+  {{ .Content }}
+</div>
+{{ end }}
+{{ end }}

@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-links">
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+      {{ end }}
+    </div>
+    <p class="footer-copy">
+      &copy; {{ now.Year }} {{ .Site.Title }} &middot; {{ .Site.Params.location }}<br>
+      {{ .Site.Params.description }} &middot; Est. {{ .Site.Params.established }}<br>
+      DHI &amp; ADGA Linear Appraisal Participants
+    </p>
+  </div>
+</footer>

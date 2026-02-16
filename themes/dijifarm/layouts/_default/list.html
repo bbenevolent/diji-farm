@@ -1,0 +1,66 @@
+{{ define "main" }}
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p>{{ . }}</p>{{ end }}
+</div>
+
+<div class="container">
+  {{ .Content }}
+
+  {{ $section := .Section }}
+  {{ if or (eq $section "does") (eq $section "sires") (eq $section "kids") (eq $section "mini-nubians") }}
+
+  {{ $pages := .RegularPages }}
+  {{ $senior := where $pages ".Params.junior_doe" "!=" true }}
+  {{ $junior := where $pages ".Params.junior_doe" true }}
+
+  {{ if $senior }}
+  <div class="goat-grid">
+    {{ range sort $senior "Params.weight" "asc" }}
+    {{ $title := .Title }}
+    <div class="goat-card">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{ with .Params.categories }}
+        <div class="tag-list">
+          {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ if $junior }}
+  <h2 style="text-align: center; color: #1a3a1a; text-transform: uppercase; font-family: 'Cinzel', serif; letter-spacing: 1px;">Junior Does</h2>
+  <div class="goat-grid">
+    {{ range sort $junior "Params.weight" "asc" }}
+    {{ $title := .Title }}
+    <div class="goat-card">
+      {{ with .Params.featured_image }}<img class="goat-card-img" src="{{ . }}" alt="{{ $title }}">{{ end }}
+      <div class="goat-card-body">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ else }}
+  <div class="content-narrow" style="padding-top: 0;">
+    {{ range .Paginator.Pages }}
+    <div class="blog-item">
+      <div>
+        <span class="date">{{ .Date.Format "January 2, 2006" }}</span>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="excerpt">{{ .Summary | truncate 200 }}</p>
+      </div>
+    </div>
+    {{ end }}
+    {{ template "_internal/pagination.html" . }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

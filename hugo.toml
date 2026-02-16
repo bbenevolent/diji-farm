@@ -1,0 +1,58 @@
+baseURL = 'https://bbenevolent.github.io/diji-farm/'
+languageCode = 'en-us'
+title = 'Diji Farm'
+theme = 'dijifarm'
+
+[params]
+  description = "Nigerian Dwarf & Nubian Dairy Goats"
+  location = "Sheridan, Oregon"
+  established = "2007"
+  owner = "Diji Farm"
+  logo = "images/030d08_e60134ae9e8a49ddac39a2c9c7021769~mv2.png"
+  tagline = "Breeding for Show, Milk, and Fun"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Does"
+    url = "/does/"
+    weight = 2
+  [[menu.main]]
+    name = "Sires"
+    url = "/sires/"
+    weight = 3
+  [[menu.main]]
+    name = "Kids"
+    url = "/kids/"
+    weight = 4
+  [[menu.main]]
+    name = "Mini Nubians"
+    url = "/mini-nubians/"
+    weight = 5
+  [[menu.main]]
+    name = "Breeding Schedule"
+    url = "/breeding-schedule/"
+    weight = 6
+  [[menu.main]]
+    name = "Sale List"
+    url = "/sale-list/"
+    weight = 7
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 8
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+
+[pagination]
+  pagerSize = 12

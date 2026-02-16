@@ -23,9 +23,9 @@ Diji Farm JRB Typhoon
 
 
 <div class="photo-gallery">
-  <div><img src="/images/345150981_161726286730714_9086915886358253958_n.jpg" alt="Diji Farm O Moxi"></div>
-  <div><img src="/images/030d08_85410c665a87490889eae8b2a3301eed~mv2.jpg" alt="Diji Farm O Moxi"></div>
-  <div><img src="/images/oliver.jpg" alt="Diji Farm O Moxi"></div>
-  <div><img src="/images/351722192_987114095766349_3795448917289165294_n.jpg" alt="Diji Farm O Moxi"></div>
-  <div><img src="/images/030d08_eb410d3f071045c9b02ddb8dadce1f38~mv2.jpg" alt="Diji Farm O Moxi"></div>
+  <div><img src="/diji-farm/images/345150981_161726286730714_9086915886358253958_n.jpg" alt="Diji Farm O Moxi"></div>
+  <div><img src="/diji-farm/images/030d08_85410c665a87490889eae8b2a3301eed~mv2.jpg" alt="Diji Farm O Moxi"></div>
+  <div><img src="/diji-farm/images/oliver.jpg" alt="Diji Farm O Moxi"></div>
+  <div><img src="/diji-farm/images/351722192_987114095766349_3795448917289165294_n.jpg" alt="Diji Farm O Moxi"></div>
+  <div><img src="/diji-farm/images/030d08_eb410d3f071045c9b02ddb8dadce1f38~mv2.jpg" alt="Diji Farm O Moxi"></div>
 </div>

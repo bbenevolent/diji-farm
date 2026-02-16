@@ -25,8 +25,8 @@ Hidden Gems CZ Cabo *B (AI breeding)
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_82c6bc2d3844400e820adaa5bf6a2938~mv2.jpg" alt="Diji Farm PN Aruba"></div>
-  <div><img src="/images/030d08_2f4e716f475e4f7287f36b2f14db7176~mv2.jpg" alt="Diji Farm PN Aruba"></div>
-  <div><img src="/images/030d08_bfe1aab873694994b76e587f1eb113d0~mv2.jpg" alt="Diji Farm PN Aruba"></div>
-  <div><img src="/images/prenup.jpg" alt="Diji Farm PN Aruba"></div>
+  <div><img src="/diji-farm/images/030d08_82c6bc2d3844400e820adaa5bf6a2938~mv2.jpg" alt="Diji Farm PN Aruba"></div>
+  <div><img src="/diji-farm/images/030d08_2f4e716f475e4f7287f36b2f14db7176~mv2.jpg" alt="Diji Farm PN Aruba"></div>
+  <div><img src="/diji-farm/images/030d08_bfe1aab873694994b76e587f1eb113d0~mv2.jpg" alt="Diji Farm PN Aruba"></div>
+  <div><img src="/diji-farm/images/prenup.jpg" alt="Diji Farm PN Aruba"></div>
 </div>

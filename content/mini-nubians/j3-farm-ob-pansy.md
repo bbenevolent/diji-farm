@@ -40,8 +40,8 @@ Autumn Wood's Kilo x Milkcreek Ridge Fawnlilly
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_bbe46ceaaa254170bc3076ac52f392ea~mv2.png" alt="J3 Farm OB Pansy"></div>
-  <div><img src="/images/030d08_ffacc66892d04f409eacd0c75d1247da~mv2.png" alt="J3 Farm OB Pansy"></div>
-  <div><img src="/images/030d08_a425e42e17e741648c134954f1751fb2~mv2.jpg" alt="J3 Farm OB Pansy"></div>
-  <div><img src="/images/884670df-9209-4a61-9021-45bee14bc7a9.jpg" alt="J3 Farm OB Pansy"></div>
+  <div><img src="/diji-farm/images/030d08_bbe46ceaaa254170bc3076ac52f392ea~mv2.png" alt="J3 Farm OB Pansy"></div>
+  <div><img src="/diji-farm/images/030d08_ffacc66892d04f409eacd0c75d1247da~mv2.png" alt="J3 Farm OB Pansy"></div>
+  <div><img src="/diji-farm/images/030d08_a425e42e17e741648c134954f1751fb2~mv2.jpg" alt="J3 Farm OB Pansy"></div>
+  <div><img src="/diji-farm/images/884670df-9209-4a61-9021-45bee14bc7a9.jpg" alt="J3 Farm OB Pansy"></div>
 </div>

@@ -25,6 +25,6 @@ SANS GENE K ZYDECO
 
 
 <div class="photo-gallery">
-  <div><img src="/images/IMG_0164_JPG.jpg" alt="Sans Gene Very Superstitious"></div>
-  <div><img src="/images/image.png" alt="Sans Gene Very Superstitious"></div>
+  <div><img src="/diji-farm/images/IMG_0164_JPG.jpg" alt="Sans Gene Very Superstitious"></div>
+  <div><img src="/diji-farm/images/image.png" alt="Sans Gene Very Superstitious"></div>
 </div>

@@ -34,5 +34,5 @@ CREE FARM AD ALADAR VEE87 x  SG CREE FARM KMC RAVEN VVEV87
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_cf831dac165d458f9f817fa5e03ec582~mv2.jpg" alt="Running River Ferra's Cinder"></div>
+  <div><img src="/diji-farm/images/030d08_cf831dac165d458f9f817fa5e03ec582~mv2.jpg" alt="Running River Ferra's Cinder"></div>
 </div>

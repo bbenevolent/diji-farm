@@ -27,7 +27,7 @@ Diji Farm JRB Typhoon *B
 
 
 <div class="photo-gallery">
-  <div><img src="/images/IMG_9021_edited.jpg" alt="Diji Farm CRE Eli's Dixie Chic"></div>
-  <div><img src="/images/030d08_851bc18600744feea8b2e1b13d70e870~mv2.jpg" alt="Diji Farm CRE Eli's Dixie Chic"></div>
-  <div><img src="/images/betty.jpg" alt="Diji Farm CRE Eli's Dixie Chic"></div>
+  <div><img src="/diji-farm/images/IMG_9021_edited.jpg" alt="Diji Farm CRE Eli's Dixie Chic"></div>
+  <div><img src="/diji-farm/images/030d08_851bc18600744feea8b2e1b13d70e870~mv2.jpg" alt="Diji Farm CRE Eli's Dixie Chic"></div>
+  <div><img src="/diji-farm/images/betty.jpg" alt="Diji Farm CRE Eli's Dixie Chic"></div>
 </div>

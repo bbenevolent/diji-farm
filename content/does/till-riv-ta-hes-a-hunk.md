@@ -33,8 +33,8 @@ Barn in the USA
 
 
 <div class="photo-gallery">
-  <div><img src="/images/image_edited.jpg" alt="Till-Riv TA He's A Hunk"></div>
-  <div><img src="/images/030d08_d7f2973fad464781bbff37f9f092e2cb~mv2.png" alt="Till-Riv TA He's A Hunk"></div>
-  <div><img src="/images/030d08_b218f9dc72554d76b7b0c2ab09144597~mv2.png" alt="Till-Riv TA He's A Hunk"></div>
-  <div><img src="/images/030d08_b5893cda4ee944fb80b1d9c6fbbfb619~mv2.png" alt="Till-Riv TA He's A Hunk"></div>
+  <div><img src="/diji-farm/images/image_edited.jpg" alt="Till-Riv TA He's A Hunk"></div>
+  <div><img src="/diji-farm/images/030d08_d7f2973fad464781bbff37f9f092e2cb~mv2.png" alt="Till-Riv TA He's A Hunk"></div>
+  <div><img src="/diji-farm/images/030d08_b218f9dc72554d76b7b0c2ab09144597~mv2.png" alt="Till-Riv TA He's A Hunk"></div>
+  <div><img src="/diji-farm/images/030d08_b5893cda4ee944fb80b1d9c6fbbfb619~mv2.png" alt="Till-Riv TA He's A Hunk"></div>
 </div>

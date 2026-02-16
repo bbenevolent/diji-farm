@@ -33,8 +33,8 @@ Diji Farm AH Snow's Legacy
 
 
 <div class="photo-gallery">
-  <div><img src="/images/IMG_9019.jpg" alt="Sans Gene EP Skeeter"></div>
-  <div><img src="/images/030d08_98d936e5e49241df843b2587ff58ab35~mv2.jpg" alt="Sans Gene EP Skeeter"></div>
-  <div><img src="/images/030d08_851bc18600744feea8b2e1b13d70e870~mv2.jpg" alt="Sans Gene EP Skeeter"></div>
-  <div><img src="/images/030d08_946a4d4e914745b69138ff22bcdf2967~mv2.jpg" alt="Sans Gene EP Skeeter"></div>
+  <div><img src="/diji-farm/images/IMG_9019.jpg" alt="Sans Gene EP Skeeter"></div>
+  <div><img src="/diji-farm/images/030d08_98d936e5e49241df843b2587ff58ab35~mv2.jpg" alt="Sans Gene EP Skeeter"></div>
+  <div><img src="/diji-farm/images/030d08_851bc18600744feea8b2e1b13d70e870~mv2.jpg" alt="Sans Gene EP Skeeter"></div>
+  <div><img src="/diji-farm/images/030d08_946a4d4e914745b69138ff22bcdf2967~mv2.jpg" alt="Sans Gene EP Skeeter"></div>
 </div>

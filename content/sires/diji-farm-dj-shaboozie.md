@@ -41,9 +41,9 @@ EXTENDED PEDIGREE
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_2a68a7c425b34897906f4919a1e1a80c~mv2.jpg" alt="Diji Farm DJ Shaboozie"></div>
-  <div><img src="/images/030d08_bf7367c637fb467485f97cdc0ccefc85~mv2.png" alt="Diji Farm DJ Shaboozie"></div>
-  <div><img src="/images/217210313_4442577239108248_2203383650344987358_n.jpg" alt="Diji Farm DJ Shaboozie"></div>
-  <div><img src="/images/030d08_d523d7f5738a4900807d22175e39be37~mv2.jpg" alt="Diji Farm DJ Shaboozie"></div>
-  <div><img src="/images/030d08_472625de0a31410f940b263798fb8ec9~mv2.jpg" alt="Diji Farm DJ Shaboozie"></div>
+  <div><img src="/diji-farm/images/030d08_2a68a7c425b34897906f4919a1e1a80c~mv2.jpg" alt="Diji Farm DJ Shaboozie"></div>
+  <div><img src="/diji-farm/images/030d08_bf7367c637fb467485f97cdc0ccefc85~mv2.png" alt="Diji Farm DJ Shaboozie"></div>
+  <div><img src="/diji-farm/images/217210313_4442577239108248_2203383650344987358_n.jpg" alt="Diji Farm DJ Shaboozie"></div>
+  <div><img src="/diji-farm/images/030d08_d523d7f5738a4900807d22175e39be37~mv2.jpg" alt="Diji Farm DJ Shaboozie"></div>
+  <div><img src="/diji-farm/images/030d08_472625de0a31410f940b263798fb8ec9~mv2.jpg" alt="Diji Farm DJ Shaboozie"></div>
 </div>

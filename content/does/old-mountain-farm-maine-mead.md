@@ -25,5 +25,5 @@ OLD MOUNTAIN FARM PERIS VVVE87
 
 
 <div class="photo-gallery">
-  <div><img src="/images/image.png" alt="Old Mountain Farm Maine Mead"></div>
+  <div><img src="/diji-farm/images/image.png" alt="Old Mountain Farm Maine Mead"></div>
 </div>

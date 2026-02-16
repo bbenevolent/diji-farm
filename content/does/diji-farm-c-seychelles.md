@@ -25,6 +25,6 @@ DIJI FARM GB AMERICAN GLORY 3*M AR VVEV88
 
 
 <div class="photo-gallery">
-  <div><img src="/images/Chellie_HEIC.png" alt="Diji Farm C Seychelles"></div>
-  <div><img src="/images/030d08_82c6bc2d3844400e820adaa5bf6a2938~mv2.jpg" alt="Diji Farm C Seychelles"></div>
+  <div><img src="/diji-farm/images/Chellie_HEIC.png" alt="Diji Farm C Seychelles"></div>
+  <div><img src="/diji-farm/images/030d08_82c6bc2d3844400e820adaa5bf6a2938~mv2.jpg" alt="Diji Farm C Seychelles"></div>
 </div>

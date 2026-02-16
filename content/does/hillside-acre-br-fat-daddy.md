@@ -23,6 +23,6 @@ DILL'S PC SWISS MISS 4*M AR
 
 
 <div class="photo-gallery">
-  <div><img src="/images/babyray.png" alt="Hillside Acre BR Fat Daddy"></div>
-  <div><img src="/images/fancy.jpg" alt="Hillside Acre BR Fat Daddy"></div>
+  <div><img src="/diji-farm/images/babyray.png" alt="Hillside Acre BR Fat Daddy"></div>
+  <div><img src="/diji-farm/images/fancy.jpg" alt="Hillside Acre BR Fat Daddy"></div>
 </div>

@@ -33,8 +33,8 @@ Diji Farm JRB Typhoon *B
 
 
 <div class="photo-gallery">
-  <div><img src="/images/351722192_987114095766349_3795448917289165294_n.jpg" alt="Diji Farm BL Constellation"></div>
-  <div><img src="/images/030d08_eb410d3f071045c9b02ddb8dadce1f38~mv2.jpg" alt="Diji Farm BL Constellation"></div>
-  <div><img src="/images/030d08_62900a5a8b964a4fb7c693024102a8e8~mv2.jpg" alt="Diji Farm BL Constellation"></div>
-  <div><img src="/images/DSC_0229_JPG.jpg" alt="Diji Farm BL Constellation"></div>
+  <div><img src="/diji-farm/images/351722192_987114095766349_3795448917289165294_n.jpg" alt="Diji Farm BL Constellation"></div>
+  <div><img src="/diji-farm/images/030d08_eb410d3f071045c9b02ddb8dadce1f38~mv2.jpg" alt="Diji Farm BL Constellation"></div>
+  <div><img src="/diji-farm/images/030d08_62900a5a8b964a4fb7c693024102a8e8~mv2.jpg" alt="Diji Farm BL Constellation"></div>
+  <div><img src="/diji-farm/images/DSC_0229_JPG.jpg" alt="Diji Farm BL Constellation"></div>
 </div>

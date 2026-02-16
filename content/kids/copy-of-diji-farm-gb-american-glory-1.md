@@ -19,5 +19,5 @@ EXTENDED PEDIGREE
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_382692c6a98843db9e4f0e2b6ca31e74~mv2.jpg" alt="Diji Farm JRB Charlemagne"></div>
+  <div><img src="/diji-farm/images/030d08_382692c6a98843db9e4f0e2b6ca31e74~mv2.jpg" alt="Diji Farm JRB Charlemagne"></div>
 </div>

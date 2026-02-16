@@ -27,7 +27,7 @@ SG OAK APPLE MAROCCHINO +EVV86
 
 
 <div class="photo-gallery">
-  <div><img src="/images/486235645_982657580704527_7274327285798974417_n.jpg" alt="Till-Riv WTM Verity"></div>
-  <div><img src="/images/image.png" alt="Till-Riv WTM Verity"></div>
-  <div><img src="/images/030d08_d523d7f5738a4900807d22175e39be37~mv2.jpg" alt="Till-Riv WTM Verity"></div>
+  <div><img src="/diji-farm/images/486235645_982657580704527_7274327285798974417_n.jpg" alt="Till-Riv WTM Verity"></div>
+  <div><img src="/diji-farm/images/image.png" alt="Till-Riv WTM Verity"></div>
+  <div><img src="/diji-farm/images/030d08_d523d7f5738a4900807d22175e39be37~mv2.jpg" alt="Till-Riv WTM Verity"></div>
 </div>

@@ -23,7 +23,7 @@ EXTENDED PEDIGREE
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_1ea54f3a1d874ede9b1b82e58f6396af~mv2.jpg" alt="Jackson's Royal BW Bayliner"></div>
-  <div><img src="/images/030d08_fd45ae4019a24359af92bd01c55a7395~mv2.jpg" alt="Jackson's Royal BW Bayliner"></div>
-  <div><img src="/images/030d08_0a9e89985bd04aeea1e9b49f24f9ff4f~mv2.jpg" alt="Jackson's Royal BW Bayliner"></div>
+  <div><img src="/diji-farm/images/030d08_1ea54f3a1d874ede9b1b82e58f6396af~mv2.jpg" alt="Jackson's Royal BW Bayliner"></div>
+  <div><img src="/diji-farm/images/030d08_fd45ae4019a24359af92bd01c55a7395~mv2.jpg" alt="Jackson's Royal BW Bayliner"></div>
+  <div><img src="/diji-farm/images/030d08_0a9e89985bd04aeea1e9b49f24f9ff4f~mv2.jpg" alt="Jackson's Royal BW Bayliner"></div>
 </div>

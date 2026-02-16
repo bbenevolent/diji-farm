@@ -27,6 +27,6 @@ SANS GENE V PEARLINE 5*M AR
 
 
 <div class="photo-gallery">
-  <div><img src="/images/IMG_0346_JPG.jpg" alt="Diji Farm DJ Lillian Shagsalot"></div>
-  <div><img src="/images/IMG_9019.jpg" alt="Diji Farm DJ Lillian Shagsalot"></div>
+  <div><img src="/diji-farm/images/IMG_0346_JPG.jpg" alt="Diji Farm DJ Lillian Shagsalot"></div>
+  <div><img src="/diji-farm/images/IMG_9019.jpg" alt="Diji Farm DJ Lillian Shagsalot"></div>
 </div>

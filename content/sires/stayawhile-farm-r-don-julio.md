@@ -29,8 +29,8 @@ Diji Farm DJ Darling Dolly
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_bf7367c637fb467485f97cdc0ccefc85~mv2.png" alt="Stayawhile Farm R Don Julio"></div>
-  <div><img src="/images/4021300.jpg" alt="Stayawhile Farm R Don Julio"></div>
-  <div><img src="/images/216834970_4442577259108246_5268070818789789950_n.jpg" alt="Stayawhile Farm R Don Julio"></div>
-  <div><img src="/images/217210313_4442577239108248_2203383650344987358_n.jpg" alt="Stayawhile Farm R Don Julio"></div>
+  <div><img src="/diji-farm/images/030d08_bf7367c637fb467485f97cdc0ccefc85~mv2.png" alt="Stayawhile Farm R Don Julio"></div>
+  <div><img src="/diji-farm/images/4021300.jpg" alt="Stayawhile Farm R Don Julio"></div>
+  <div><img src="/diji-farm/images/216834970_4442577259108246_5268070818789789950_n.jpg" alt="Stayawhile Farm R Don Julio"></div>
+  <div><img src="/diji-farm/images/217210313_4442577239108248_2203383650344987358_n.jpg" alt="Stayawhile Farm R Don Julio"></div>
 </div>

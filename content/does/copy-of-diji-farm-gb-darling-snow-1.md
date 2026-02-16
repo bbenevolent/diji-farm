@@ -21,6 +21,6 @@ EXTENDED PEDIGREE
 
 
 <div class="photo-gallery">
-  <div><img src="/images/GLACIER2017.jpg" alt="Diji Farm GB American Glory"></div>
-  <div><img src="/images/DSC_0204_JPG.jpg" alt="Diji Farm GB American Glory"></div>
+  <div><img src="/diji-farm/images/GLACIER2017.jpg" alt="Diji Farm GB American Glory"></div>
+  <div><img src="/diji-farm/images/DSC_0204_JPG.jpg" alt="Diji Farm GB American Glory"></div>
 </div>

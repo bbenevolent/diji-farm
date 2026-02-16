@@ -17,8 +17,8 @@ DIJI FARM SGW CINDERELLA EVVV89 2*M AR2016
 
 
 <div class="photo-gallery">
-  <div><img src="/images/martha2021.jpg" alt="Diji Farm PD Marthamay Whoiever"></div>
-  <div><img src="/images/030d08_42070ca2ec304cf587a322da5a32e13f~mv2.jpg" alt="Diji Farm PD Marthamay Whoiever"></div>
-  <div><img src="/images/030d08_cfc6f4d7836b4908bf64c65c58391349~mv2.jpg" alt="Diji Farm PD Marthamay Whoiever"></div>
-  <div><img src="/images/cindylew.jpg" alt="Diji Farm PD Marthamay Whoiever"></div>
+  <div><img src="/diji-farm/images/martha2021.jpg" alt="Diji Farm PD Marthamay Whoiever"></div>
+  <div><img src="/diji-farm/images/030d08_42070ca2ec304cf587a322da5a32e13f~mv2.jpg" alt="Diji Farm PD Marthamay Whoiever"></div>
+  <div><img src="/diji-farm/images/030d08_cfc6f4d7836b4908bf64c65c58391349~mv2.jpg" alt="Diji Farm PD Marthamay Whoiever"></div>
+  <div><img src="/diji-farm/images/cindylew.jpg" alt="Diji Farm PD Marthamay Whoiever"></div>
 </div>

@@ -21,6 +21,6 @@ DIJI FARM CG HALLE BERRY VEVE90
 
 
 <div class="photo-gallery">
-  <div><img src="/images/joe.jpg" alt="Diji Farm P Grace Kelley"></div>
-  <div><img src="/images/030d08_66562aa5d11d43d290ea1225652d4ee2~mv2.jpeg" alt="Diji Farm P Grace Kelley"></div>
+  <div><img src="/diji-farm/images/joe.jpg" alt="Diji Farm P Grace Kelley"></div>
+  <div><img src="/diji-farm/images/030d08_66562aa5d11d43d290ea1225652d4ee2~mv2.jpeg" alt="Diji Farm P Grace Kelley"></div>
 </div>

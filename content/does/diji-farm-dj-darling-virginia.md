@@ -33,6 +33,6 @@ Diji Farm BW Glacier Bay x Diji Farm BL Bay Song
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_d5a9cc2cdbdb4cf49787e48d4c9fe657~mv2.jpg" alt="Diji Farm FD Darling Virginia"></div>
-  <div><img src="/images/030d08_5f892c55f8e843debe21ae3586ca227a~mv2.jpg" alt="Diji Farm FD Darling Virginia"></div>
+  <div><img src="/diji-farm/images/030d08_d5a9cc2cdbdb4cf49787e48d4c9fe657~mv2.jpg" alt="Diji Farm FD Darling Virginia"></div>
+  <div><img src="/diji-farm/images/030d08_5f892c55f8e843debe21ae3586ca227a~mv2.jpg" alt="Diji Farm FD Darling Virginia"></div>
 </div>

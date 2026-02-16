@@ -15,7 +15,7 @@ BUTTIN'HEADS FATHER CHRISTMAS +*B AEE82
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_9c666b9b5e2041bfb9d9fd494a095013~mv2.jpg" alt="Diji Farm PU Lil Ms D-Vyne"></div>
-  <div><img src="/images/030d08_8a9723a36780486e9def54bbc0924608~mv2.jpg" alt="Diji Farm PU Lil Ms D-Vyne"></div>
-  <div><img src="/images/2015_Diji_0008_Sumpn_JPG.jpg" alt="Diji Farm PU Lil Ms D-Vyne"></div>
+  <div><img src="/diji-farm/images/030d08_9c666b9b5e2041bfb9d9fd494a095013~mv2.jpg" alt="Diji Farm PU Lil Ms D-Vyne"></div>
+  <div><img src="/diji-farm/images/030d08_8a9723a36780486e9def54bbc0924608~mv2.jpg" alt="Diji Farm PU Lil Ms D-Vyne"></div>
+  <div><img src="/diji-farm/images/2015_Diji_0008_Sumpn_JPG.jpg" alt="Diji Farm PU Lil Ms D-Vyne"></div>
 </div>

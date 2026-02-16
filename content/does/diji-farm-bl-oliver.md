@@ -21,7 +21,7 @@ EXTENDED PEDIGREE
 
 
 <div class="photo-gallery">
-  <div><img src="/images/oliver.jpg" alt="Diji Farm BL Oliver"></div>
-  <div><img src="/images/030d08_62900a5a8b964a4fb7c693024102a8e8~mv2.jpg" alt="Diji Farm BL Oliver"></div>
-  <div><img src="/images/DSC_0204_JPG.jpg" alt="Diji Farm BL Oliver"></div>
+  <div><img src="/diji-farm/images/oliver.jpg" alt="Diji Farm BL Oliver"></div>
+  <div><img src="/diji-farm/images/030d08_62900a5a8b964a4fb7c693024102a8e8~mv2.jpg" alt="Diji Farm BL Oliver"></div>
+  <div><img src="/diji-farm/images/DSC_0204_JPG.jpg" alt="Diji Farm BL Oliver"></div>
 </div>

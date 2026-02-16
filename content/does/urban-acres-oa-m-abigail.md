@@ -30,5 +30,5 @@ SGCH Copper-Hill Breakaway's Sonset EEE91 x  SG Globes Theatre's Porsche +EVE89 
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_f62577b7f9454b9a9dd5686547939643~mv2.png" alt="Urban Acres OA-M Abigail"></div>
+  <div><img src="/diji-farm/images/030d08_f62577b7f9454b9a9dd5686547939643~mv2.png" alt="Urban Acres OA-M Abigail"></div>
 </div>

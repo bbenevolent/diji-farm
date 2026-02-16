@@ -21,6 +21,6 @@ EXTENDED PEDIGREE
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_88055f537e894486856c94a9927b2181~mv2.jpg" alt="Franke Farm MT Night Sky"></div>
-  <div><img src="/images/sky2020_edited.jpg" alt="Franke Farm MT Night Sky"></div>
+  <div><img src="/diji-farm/images/030d08_88055f537e894486856c94a9927b2181~mv2.jpg" alt="Franke Farm MT Night Sky"></div>
+  <div><img src="/diji-farm/images/sky2020_edited.jpg" alt="Franke Farm MT Night Sky"></div>
 </div>

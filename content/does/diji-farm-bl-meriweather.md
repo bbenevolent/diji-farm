@@ -21,8 +21,8 @@ DIJI FARM WL SNOW WHITE 1*M VVEV88
 
 
 <div class="photo-gallery">
-  <div><img src="/images/meri2021.jpg" alt="Diji Farm BL Meriweather"></div>
-  <div><img src="/images/meriudder2021.jpg" alt="Diji Farm BL Meriweather"></div>
-  <div><img src="/images/030d08_62900a5a8b964a4fb7c693024102a8e8~mv2.jpg" alt="Diji Farm BL Meriweather"></div>
-  <div><img src="/images/cinderella.jpg" alt="Diji Farm BL Meriweather"></div>
+  <div><img src="/diji-farm/images/meri2021.jpg" alt="Diji Farm BL Meriweather"></div>
+  <div><img src="/diji-farm/images/meriudder2021.jpg" alt="Diji Farm BL Meriweather"></div>
+  <div><img src="/diji-farm/images/030d08_62900a5a8b964a4fb7c693024102a8e8~mv2.jpg" alt="Diji Farm BL Meriweather"></div>
+  <div><img src="/diji-farm/images/cinderella.jpg" alt="Diji Farm BL Meriweather"></div>
 </div>

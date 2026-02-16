@@ -19,7 +19,7 @@ DIJI FARM PAL'S USHER *B VVV85
 
 
 <div class="photo-gallery">
-  <div><img src="/images/IMG_9058_edited.jpg" alt="Diji Farm JRB Typhoon"></div>
-  <div><img src="/images/030d08_1ea54f3a1d874ede9b1b82e58f6396af~mv2.jpg" alt="Diji Farm JRB Typhoon"></div>
-  <div><img src="/images/030d08_9c666b9b5e2041bfb9d9fd494a095013~mv2.jpg" alt="Diji Farm JRB Typhoon"></div>
+  <div><img src="/diji-farm/images/IMG_9058_edited.jpg" alt="Diji Farm JRB Typhoon"></div>
+  <div><img src="/diji-farm/images/030d08_1ea54f3a1d874ede9b1b82e58f6396af~mv2.jpg" alt="Diji Farm JRB Typhoon"></div>
+  <div><img src="/diji-farm/images/030d08_9c666b9b5e2041bfb9d9fd494a095013~mv2.jpg" alt="Diji Farm JRB Typhoon"></div>
 </div>

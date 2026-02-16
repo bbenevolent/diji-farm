@@ -34,7 +34,7 @@ DKGH Rock It's El Tsa Vo x Urban Acres PK Kimber 2*M VEEE90
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_e7123eeaf4f3440bb0984e4e175abbf6~mv2.jpg" alt="J3 Farm Henry Wine-Heart"></div>
-  <div><img src="/images/030d08_bd16d6d3af544e078682143cf6b0c766~mv2.png" alt="J3 Farm Henry Wine-Heart"></div>
-  <div><img src="/images/030d08_0f8ca18ee1a84edd840e822388eb4e77~mv2.png" alt="J3 Farm Henry Wine-Heart"></div>
+  <div><img src="/diji-farm/images/030d08_e7123eeaf4f3440bb0984e4e175abbf6~mv2.jpg" alt="J3 Farm Henry Wine-Heart"></div>
+  <div><img src="/diji-farm/images/030d08_bd16d6d3af544e078682143cf6b0c766~mv2.png" alt="J3 Farm Henry Wine-Heart"></div>
+  <div><img src="/diji-farm/images/030d08_0f8ca18ee1a84edd840e822388eb4e77~mv2.png" alt="J3 Farm Henry Wine-Heart"></div>
 </div>

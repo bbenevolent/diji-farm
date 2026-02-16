@@ -34,7 +34,7 @@ Royal Cedars Chocolate Chip +B x Royal Cedars Echo Oreo VE+E89 3*M
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_bc21acafe0a8410a91ca84ab42ea5a4e~mv2.png" alt="Royal Cedars VLV Oh My Stars"></div>
-  <div><img src="/images/030d08_de5634799d84455a99c5ecf6bb6fa602~mv2.png" alt="Royal Cedars VLV Oh My Stars"></div>
-  <div><img src="/images/485107627_539903735797813_771029260305140207_n_edited.jpg" alt="Royal Cedars VLV Oh My Stars"></div>
+  <div><img src="/diji-farm/images/030d08_bc21acafe0a8410a91ca84ab42ea5a4e~mv2.png" alt="Royal Cedars VLV Oh My Stars"></div>
+  <div><img src="/diji-farm/images/030d08_de5634799d84455a99c5ecf6bb6fa602~mv2.png" alt="Royal Cedars VLV Oh My Stars"></div>
+  <div><img src="/diji-farm/images/485107627_539903735797813_771029260305140207_n_edited.jpg" alt="Royal Cedars VLV Oh My Stars"></div>
 </div>

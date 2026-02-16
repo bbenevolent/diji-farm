@@ -35,8 +35,8 @@ Diji Farm CRB Austin Healey
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_92c39dd7ee8a49ee926f69988a8143b0~mv2.jpg" alt="Diji Farm GB Darling Snow"></div>
-  <div><img src="/images/030d08_b924fa5c3b334616800683bb4b73ae39~mv2.jpg" alt="Diji Farm GB Darling Snow"></div>
-  <div><img src="/images/GLACIER2017.jpg" alt="Diji Farm GB Darling Snow"></div>
-  <div><img src="/images/030d08_96cb9b13b48143aabce313fd9feb405b~mv2.png" alt="Diji Farm GB Darling Snow"></div>
+  <div><img src="/diji-farm/images/030d08_92c39dd7ee8a49ee926f69988a8143b0~mv2.jpg" alt="Diji Farm GB Darling Snow"></div>
+  <div><img src="/diji-farm/images/030d08_b924fa5c3b334616800683bb4b73ae39~mv2.jpg" alt="Diji Farm GB Darling Snow"></div>
+  <div><img src="/diji-farm/images/GLACIER2017.jpg" alt="Diji Farm GB Darling Snow"></div>
+  <div><img src="/diji-farm/images/030d08_96cb9b13b48143aabce313fd9feb405b~mv2.png" alt="Diji Farm GB Darling Snow"></div>
 </div>

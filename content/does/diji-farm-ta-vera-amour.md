@@ -25,6 +25,6 @@ OAK APPLE VALEERIE 7*M VVEG84
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_25be0819d3d347d395bfb74f2af576ff~mv2.jpg" alt="Diji Farm TA Vera Amour"></div>
-  <div><img src="/images/amore-5-yr_orig.jpg" alt="Diji Farm TA Vera Amour"></div>
+  <div><img src="/diji-farm/images/030d08_25be0819d3d347d395bfb74f2af576ff~mv2.jpg" alt="Diji Farm TA Vera Amour"></div>
+  <div><img src="/diji-farm/images/amore-5-yr_orig.jpg" alt="Diji Farm TA Vera Amour"></div>
 </div>

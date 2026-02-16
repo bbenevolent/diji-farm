@@ -38,6 +38,6 @@ Inavale Archer x Inavale Hailey
 
 
 <div class="photo-gallery">
-  <div><img src="/images/55cdcf32-5e5d-49e8-9530-eb2248e48323.jpg" alt="Windswept Acres C Mahna Mahna Be-Do-Do"></div>
-  <div><img src="/images/030d08_459ab52a09b84fc8bf629cf7c68005f6~mv2.jpg" alt="Windswept Acres C Mahna Mahna Be-Do-Do"></div>
+  <div><img src="/diji-farm/images/55cdcf32-5e5d-49e8-9530-eb2248e48323.jpg" alt="Windswept Acres C Mahna Mahna Be-Do-Do"></div>
+  <div><img src="/diji-farm/images/030d08_459ab52a09b84fc8bf629cf7c68005f6~mv2.jpg" alt="Windswept Acres C Mahna Mahna Be-Do-Do"></div>
 </div>

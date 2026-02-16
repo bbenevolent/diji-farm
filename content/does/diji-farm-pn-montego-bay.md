@@ -21,6 +21,6 @@ Diji Farm MB Celeste
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_32d8bbc2511940788fce32cdb7db8fbf~mv2.jpg" alt="Diji Farm PN Montego Bay"></div>
-  <div><img src="/images/prenup.jpg" alt="Diji Farm PN Montego Bay"></div>
+  <div><img src="/diji-farm/images/030d08_32d8bbc2511940788fce32cdb7db8fbf~mv2.jpg" alt="Diji Farm PN Montego Bay"></div>
+  <div><img src="/diji-farm/images/prenup.jpg" alt="Diji Farm PN Montego Bay"></div>
 </div>

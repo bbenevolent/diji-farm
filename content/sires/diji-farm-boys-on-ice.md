@@ -99,23 +99,23 @@ BLISSBERRY RC RENO
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_32d8bbc2511940788fce32cdb7db8fbf~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_cfc6f4d7836b4908bf64c65c58391349~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_31206f8bbe304aed95a25af99c0176b3~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_ad06461f142b4ad98f81e01676c24fc3~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_54f256905a1d4844aaebe2146355e7ca~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_fd45ae4019a24359af92bd01c55a7395~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_1ea54f3a1d874ede9b1b82e58f6396af~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_cc709b21fe5041759142632da2b09a08~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_7dc6455283b742d096bf0920fdc97b35~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_851bc18600744feea8b2e1b13d70e870~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_576178ec812847488596e3323b4e1031~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_020aa8d00e6a49c9bbc8df84eda03a4e~mv2.png" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_ce375ff659f348a7989b141bec2c3d75~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_20d65e44e1e34c03b6044e99b84b3e49~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_35d5d63d6c444242bca76592232e3b85~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_9f03ea0a815e480680dfad116fbc0809~mv2.png" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_ca3d0bfdbb0a4d6d9207c082c7430388~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_1d34c74c9438435d878120ef99820dd1~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
-  <div><img src="/images/030d08_310cea030b4f48dcbbe227ae79523c54~mv2.png" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_32d8bbc2511940788fce32cdb7db8fbf~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_cfc6f4d7836b4908bf64c65c58391349~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_31206f8bbe304aed95a25af99c0176b3~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_ad06461f142b4ad98f81e01676c24fc3~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_54f256905a1d4844aaebe2146355e7ca~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_fd45ae4019a24359af92bd01c55a7395~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_1ea54f3a1d874ede9b1b82e58f6396af~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_cc709b21fe5041759142632da2b09a08~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_7dc6455283b742d096bf0920fdc97b35~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_851bc18600744feea8b2e1b13d70e870~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_576178ec812847488596e3323b4e1031~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_020aa8d00e6a49c9bbc8df84eda03a4e~mv2.png" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_ce375ff659f348a7989b141bec2c3d75~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_20d65e44e1e34c03b6044e99b84b3e49~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_35d5d63d6c444242bca76592232e3b85~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_9f03ea0a815e480680dfad116fbc0809~mv2.png" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_ca3d0bfdbb0a4d6d9207c082c7430388~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_1d34c74c9438435d878120ef99820dd1~mv2.jpg" alt="Diji Farm Boys On Ice"></div>
+  <div><img src="/diji-farm/images/030d08_310cea030b4f48dcbbe227ae79523c54~mv2.png" alt="Diji Farm Boys On Ice"></div>
 </div>

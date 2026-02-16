@@ -23,7 +23,7 @@ EXTENDED PEDIGREE
 
 
 <div class="photo-gallery">
-  <div><img src="/images/GLACIER2017.jpg" alt="Diji Farm BW Glacier Bay"></div>
-  <div><img src="/images/030d08_fd45ae4019a24359af92bd01c55a7395~mv2.jpg" alt="Diji Farm BW Glacier Bay"></div>
-  <div><img src="/images/SNOW_WHITE.jpg" alt="Diji Farm BW Glacier Bay"></div>
+  <div><img src="/diji-farm/images/GLACIER2017.jpg" alt="Diji Farm BW Glacier Bay"></div>
+  <div><img src="/diji-farm/images/030d08_fd45ae4019a24359af92bd01c55a7395~mv2.jpg" alt="Diji Farm BW Glacier Bay"></div>
+  <div><img src="/diji-farm/images/SNOW_WHITE.jpg" alt="Diji Farm BW Glacier Bay"></div>
 </div>

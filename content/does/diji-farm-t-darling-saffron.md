@@ -23,8 +23,8 @@ DIJI FARM GB DARLING SNOW 1*M AR EEEE91
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_214849a9e466460e901881010ff193d5~mv2.png" alt="Diji Farm T Darling Saffron"></div>
-  <div><img src="/images/523a28ca-cb42-4301-8cfe-8d88670b8073.jpg" alt="Diji Farm T Darling Saffron"></div>
-  <div><img src="/images/IMG_9058_edited.jpg" alt="Diji Farm T Darling Saffron"></div>
-  <div><img src="/images/IMG_9011_heic.png" alt="Diji Farm T Darling Saffron"></div>
+  <div><img src="/diji-farm/images/030d08_214849a9e466460e901881010ff193d5~mv2.png" alt="Diji Farm T Darling Saffron"></div>
+  <div><img src="/diji-farm/images/523a28ca-cb42-4301-8cfe-8d88670b8073.jpg" alt="Diji Farm T Darling Saffron"></div>
+  <div><img src="/diji-farm/images/IMG_9058_edited.jpg" alt="Diji Farm T Darling Saffron"></div>
+  <div><img src="/diji-farm/images/IMG_9011_heic.png" alt="Diji Farm T Darling Saffron"></div>
 </div>

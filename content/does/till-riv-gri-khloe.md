@@ -30,6 +30,6 @@ Thunder-ridge BO_KS Image x Sand-Bur-Kids SC Karma VEEE90
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_22fc1a24869140c5a2c7936906b32520~mv2.jpeg" alt="Till-Riv GRI Khloe"></div>
-  <div><img src="/images/030d08_bae02fcad3bb403f868fa3d0712bbfcc~mv2.jpeg" alt="Till-Riv GRI Khloe"></div>
+  <div><img src="/diji-farm/images/030d08_22fc1a24869140c5a2c7936906b32520~mv2.jpeg" alt="Till-Riv GRI Khloe"></div>
+  <div><img src="/diji-farm/images/030d08_bae02fcad3bb403f868fa3d0712bbfcc~mv2.jpeg" alt="Till-Riv GRI Khloe"></div>
 </div>

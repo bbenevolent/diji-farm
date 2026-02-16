@@ -31,6 +31,6 @@ Better Wayz EJ Zipper
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_d523d7f5738a4900807d22175e39be37~mv2.jpg" alt="Oak Apple Valerie"></div>
-  <div><img src="/images/image.png" alt="Oak Apple Valerie"></div>
+  <div><img src="/diji-farm/images/030d08_d523d7f5738a4900807d22175e39be37~mv2.jpg" alt="Oak Apple Valerie"></div>
+  <div><img src="/diji-farm/images/image.png" alt="Oak Apple Valerie"></div>
 </div>

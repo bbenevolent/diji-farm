@@ -25,7 +25,7 @@ DIJI FARM GB DARLING SNOW 1*M VEEE91
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_a2d287d9f8f242fd8483e289d19968b6~mv2.jpg" alt="Diji Farm DJ Darling Dolly"></div>
-  <div><img src="/images/IMG_0346_JPG.jpg" alt="Diji Farm DJ Darling Dolly"></div>
-  <div><img src="/images/030d08_5f892c55f8e843debe21ae3586ca227a~mv2.jpg" alt="Diji Farm DJ Darling Dolly"></div>
+  <div><img src="/diji-farm/images/030d08_a2d287d9f8f242fd8483e289d19968b6~mv2.jpg" alt="Diji Farm DJ Darling Dolly"></div>
+  <div><img src="/diji-farm/images/IMG_0346_JPG.jpg" alt="Diji Farm DJ Darling Dolly"></div>
+  <div><img src="/diji-farm/images/030d08_5f892c55f8e843debe21ae3586ca227a~mv2.jpg" alt="Diji Farm DJ Darling Dolly"></div>
 </div>

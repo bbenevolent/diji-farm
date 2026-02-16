@@ -21,7 +21,7 @@ EXTENDED PEDIGREE
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_c403186aa2af41be8f86c8f6ece5556b~mv2.jpg" alt="Diji Farm Pals Calalilly"></div>
-  <div><img src="/images/030d08_6105b2bedb184cb3bb3d279fbf637a69~mv2.jpg" alt="Diji Farm Pals Calalilly"></div>
-  <div><img src="/images/030d08_88541504c263488da548b6fa6fdaa9b1~mv2.jpg" alt="Diji Farm Pals Calalilly"></div>
+  <div><img src="/diji-farm/images/030d08_c403186aa2af41be8f86c8f6ece5556b~mv2.jpg" alt="Diji Farm Pals Calalilly"></div>
+  <div><img src="/diji-farm/images/030d08_6105b2bedb184cb3bb3d279fbf637a69~mv2.jpg" alt="Diji Farm Pals Calalilly"></div>
+  <div><img src="/diji-farm/images/030d08_88541504c263488da548b6fa6fdaa9b1~mv2.jpg" alt="Diji Farm Pals Calalilly"></div>
 </div>

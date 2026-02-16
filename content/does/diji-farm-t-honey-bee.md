@@ -23,6 +23,6 @@ DIJI FARM BL CONSTELLATION EEEV90
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_0968c334145144b581e2dfcbef7e64e5~mv2.jpg" alt="Dij iFarm T Honey Bee"></div>
-  <div><img src="/images/IMG_9058_edited.jpg" alt="Dij iFarm T Honey Bee"></div>
+  <div><img src="/diji-farm/images/030d08_0968c334145144b581e2dfcbef7e64e5~mv2.jpg" alt="Dij iFarm T Honey Bee"></div>
+  <div><img src="/diji-farm/images/IMG_9058_edited.jpg" alt="Dij iFarm T Honey Bee"></div>
 </div>

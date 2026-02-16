@@ -31,8 +31,8 @@ Dustin Noble
 
 
 <div class="photo-gallery">
-  <div><img src="/images/367489897_974786390305933_8517441017435824109_n_edited.jpg" alt="Till-Riv-WTM-Ivory-Rose"></div>
-  <div><img src="/images/wtm.png" alt="Till-Riv-WTM-Ivory-Rose"></div>
-  <div><img src="/images/350738997_804846927524665_4578125507176409189_n.jpg" alt="Till-Riv-WTM-Ivory-Rose"></div>
-  <div><img src="/images/352225865_1426244544802699_2907726815698623551_n.jpg" alt="Till-Riv-WTM-Ivory-Rose"></div>
+  <div><img src="/diji-farm/images/367489897_974786390305933_8517441017435824109_n_edited.jpg" alt="Till-Riv-WTM-Ivory-Rose"></div>
+  <div><img src="/diji-farm/images/wtm.png" alt="Till-Riv-WTM-Ivory-Rose"></div>
+  <div><img src="/diji-farm/images/350738997_804846927524665_4578125507176409189_n.jpg" alt="Till-Riv-WTM-Ivory-Rose"></div>
+  <div><img src="/diji-farm/images/352225865_1426244544802699_2907726815698623551_n.jpg" alt="Till-Riv-WTM-Ivory-Rose"></div>
 </div>

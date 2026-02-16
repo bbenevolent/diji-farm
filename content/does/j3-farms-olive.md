@@ -38,8 +38,8 @@ Milkcreek Ridge Hawkeye x Inavale Wren's Ramona
 
 
 <div class="photo-gallery">
-  <div><img src="/images/030d08_a83d7078589448f89c0d2f3101e45491~mv2.jpg" alt="J3Farm Olive"></div>
-  <div><img src="/images/030d08_212aaad94c634248aa25de58a8f8a99d~mv2.jpg" alt="J3Farm Olive"></div>
-  <div><img src="/images/IMG_0355_PNG.png" alt="J3Farm Olive"></div>
-  <div><img src="/images/2273ebb8-cf6d-45e3-9a75-719c4d395779_edi.jpg" alt="J3Farm Olive"></div>
+  <div><img src="/diji-farm/images/030d08_a83d7078589448f89c0d2f3101e45491~mv2.jpg" alt="J3Farm Olive"></div>
+  <div><img src="/diji-farm/images/030d08_212aaad94c634248aa25de58a8f8a99d~mv2.jpg" alt="J3Farm Olive"></div>
+  <div><img src="/diji-farm/images/IMG_0355_PNG.png" alt="J3Farm Olive"></div>
+  <div><img src="/diji-farm/images/2273ebb8-cf6d-45e3-9a75-719c4d395779_edi.jpg" alt="J3Farm Olive"></div>
 </div>
